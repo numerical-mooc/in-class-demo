@@ -6,5 +6,5 @@ HOWTO: Submit your final project
 *  Using the client of your choice, clone your forked repository to the machine you are working on.  
 *  In the local directory, create a new folder using your name as the folder name
 *  Inside this folder, create a text file, add some text (like your name).  Now save and close the text file
-*  Add, commit and push the new file to your forked repository
+*  Add, commit arked repository
 *  Browse to your forked repository on Github and initiate a new pull request.
